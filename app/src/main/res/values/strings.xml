@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tip_o_later</string>
+    <string name="Calculate_the_total_price">Calculate!</string>
+    <string name="Final_Price"></string>
+    <string-array name="Service_level">
+        <item>Poor</item>
+        <item>Good</item>
+        <item>Excellent</item>
+    </string-array>
+</resources>
