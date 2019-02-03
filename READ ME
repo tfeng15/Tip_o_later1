@@ -1,0 +1,8 @@
+In this lab, you will implement an app that you can be used to determine the tip based on the service received and to the
+total bill. Your app, should have labels indicating what is being displayed in a textbox. For example, the user should be
+able to enter the Bill into the app (their should be a label indicating what the textbox’s purpose is), and their should be
+additional displays for the calculated tip, as well as, the Total (Bill + Tip). In addition, the user should be afforded
+Buttons to select Poor, Good, and Excellent service that influences the tip accordingly:
+• Poor – would receive 5% of the Bill as a Tip
+• Good – would receive 10% of the Bill as a Tip
+• Excellent – would receive 20% of the Bill as a Tip
